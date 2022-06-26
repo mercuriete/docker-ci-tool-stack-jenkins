@@ -2,7 +2,7 @@ ansicolor:0.4.2
 ant:1.4
 antisamy-markup-formatter:1.5
 authentication-tokens:1.3
-build-pipeline-plugin:1.5.4
+build-pipeline-plugin:1.5.8
 chucknorris:1.0
 clone-workspace-scm:0.6
 cloudbees-credentials:3.3
