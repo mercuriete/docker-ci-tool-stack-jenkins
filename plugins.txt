@@ -1,6 +1,6 @@
 ansicolor:0.4.2
 ant:1.4
-antisamy-markup-formatter:1.5
+antisamy-markup-formatter:1.8
 authentication-tokens:1.3
 build-pipeline-plugin:1.5.4
 chucknorris:1.0
