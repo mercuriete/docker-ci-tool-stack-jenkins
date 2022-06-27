@@ -6,7 +6,7 @@ build-pipeline-plugin:1.5.4
 chucknorris:1.0
 clone-workspace-scm:0.6
 cloudbees-credentials:3.3
-cloudbees-folder:5.12
+cloudbees-folder:5.18
 conditional-buildstep:1.3.5
 config-file-provider:2.11
 credentials:2.1.4
