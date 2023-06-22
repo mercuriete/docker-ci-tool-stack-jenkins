@@ -1,4 +1,4 @@
-ansicolor:0.4.2
+ansicolor:0.7.5
 ant:1.4
 antisamy-markup-formatter:1.5
 authentication-tokens:1.3
